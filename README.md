@@ -1,6 +1,18 @@
 # Theo Puzzle V2 Notes
 
-This repository packages the local artifacts, notes, and solver scripts from the line-1 decryption attempt on Theo puzzle v2. Sadly, I went towards the wrong path ;P
+This repository packages the local artifacts, notes, and solver scripts from the line-1 decryption attempt on [Theo crypto puzzle v2](https://gist.github.com/t3dotgg/6c2771dbf31033a506b632a067cfaf33). 
+
+Sadly, I fell towards the wrong path and went to sleep before the 1st hint was published ;P I did have the backwards idea pretty early on but discarded it after a few attempts, so there's that!
+
+| Time (CEST) | Time (UTC) | Event |
+|---|---|---|
+| 19:20 | 17:20 | Puzzle published |
+| 23:55 | 21:55 | Gave up (archived investigation notes to repo) |
+| 06:31 | 04:31 | Solved by @avikam03 |
+
+That's about **11 hours 12 minutes** from publish to solve.
+
+---
 
 The line-1 payload under investigation was:
 
